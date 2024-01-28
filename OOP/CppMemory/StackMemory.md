@@ -31,6 +31,7 @@ int num_val=*p
 - It's not our memory anymore.
 - the stack frame exists only so long as the function is running
 
-![[memory.png]]
+![](../../img/memory.png)
+
 
 
