@@ -49,10 +49,10 @@ From the example, note that:
 `p`,`q` are 2 int ptrs, allocated on the stacks
 `p` is assigned to an int heap; 
 `q` is set to also point to that heap 
-![[Pasted image 20240127041500.png]]
+![](../../img/Pasted%20image%2020240127041500.png)
 first print `*p` should be 8
 second `*p` still 8, `*q` is 9
-![[Pasted image 20240127041914.png]]
+![](../../img/Pasted%20image%2020240127041914.png)
 
 ## puzzle 4
 ![](../../img/Pasted%20image%2020240127042246.png)
