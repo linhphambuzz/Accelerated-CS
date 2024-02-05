@@ -22,7 +22,7 @@ int *numPtr= new int;
     	- rhs: new heap memory
     	-
 
-![image](../../img/heap.png) 
+![](../../img/heap.png) 
 5. Another example
 
 ```
@@ -85,7 +85,7 @@ Cube *c = new Cube;
 ```
 
 Before the delete:
-![](../../img/heap3.png)
+![](heap3.png)
 
 ```
 delete c;
