@@ -1,3 +1,5 @@
+# UIUC fundamental CS specializations
+
 This is the repository for my notes from [coursera UIUC fundamental CS specializations](https://www.coursera.org/specializations/cs-fundamentals?)
 
 <div>
@@ -21,3 +23,18 @@ There are 3 courses from this specialization
 
 1. [Loop](./OOP/BasicSyntax/Loop.md)
 2. [Syntax](./OOP/BasicSyntax/Syntax.md)
+
+## CPP Classes
+1. [Constructors](./OOP/Classes/Constructors/)
+2. [Destructors](./OOP/Classes/Destructors/)
+3. [Inheritance](./OOP/Classes/Inheritance/)
+4. [Template](./OOP/Template/Template.md)
+5. [Variable Storages](./OOP/Classes/VariableStorages/)
+
+# [Unorder data structures](./OrderedDS/)
+1. [Array & List](./OrderedDS/Array&List.md)
+2. [Queue](./OrderedDS/Queue.md)
+3. [Stack](./OrderedDS/Stack.md)
+4. [AVL Trees](./OrderedDS/AVL/)
+5. [Binary Trees](./OrderedDS/Binary_Tree.md)
+6. [B-Tree](./OrderedDS/B-Tree.md)
