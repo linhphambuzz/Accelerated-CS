@@ -11,28 +11,28 @@ There are 3 courses from this specialization
 	</ul>
 </div>
 
-# Object Oriented Programming in C++
+## 🚀 Object Oriented Programming in C++
 
-## :mag_right: CPP Memory
+### CPP Memory
 
 1. [Stack Memory](./OOP/CppMemory/StackMemory.md)
 2. [Heap Memory](./OOP/CppMemory/HeapMemory1.md)
 3. [Heap Memory puzzles](./OOP/CppMemory/HeapMemory2.md)
 
-## 📘 Basic syntax
+### Basic syntax
 
 1. [Loop](./OOP/BasicSyntax/Loop.md)
 2. [Syntax](./OOP/BasicSyntax/Syntax.md)
 
-## 📔 CPP Classes
+### CPP Classes
 1. [Constructors](./OOP/Classes/Constructors/)
 2. [Destructors](./OOP/Classes/Destructors/)
 3. [Inheritance](./OOP/Classes/Inheritance/)
 4. [Template](./OOP/Template/Template.md)
 5. [Variable Storages](./OOP/Classes/VariableStorages/)
 
-#  Ordered data structures
-1. [Array & List](./OrderedDS/Array&List.md)
+##  🌟 Ordered data structures
+1. [Array & Linked List](./OrderedDS/Array&List.md)
 2. [Queue](./OrderedDS/Queue.md)
 3. [Stack](./OrderedDS/Stack.md)
 4. [AVL Trees](./OrderedDS/AVL/)
@@ -40,3 +40,17 @@ There are 3 courses from this specialization
 6. [B-Tree](./OrderedDS/B-Tree.md)
 7. [Heap](./OrderedDS/Heap.md)
 
+## 💫 Unordered data structures
+
+1. [Hashing](./UnorderedDS/Hashing.md)
+2. [Disjoint Set, Union](./UnorderedDS/DisjointSet.md)
+3. [Graph](./UnorderedDS/Graphs.md)
+4. [Breath First Search, Depth First Search](./UnorderedDS/GraphAlgorithms.md)
+5. [Minimum Spanning Tree](./UnorderedDS/MST.md)
+6. [Dijkstra's algorithms](./UnorderedDS/ShortestPath.md)
+
+# Certificates
+
+![](img/final_cert.png)
+![](img/OD_cert.png)
+![](img/OOP_cert.png)

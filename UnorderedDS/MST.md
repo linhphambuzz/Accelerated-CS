@@ -26,9 +26,9 @@
 
 ### Partition property
 
-![[20240301020418.png]]
+![](../img/20240301020418.png)
 
-![[20240301023430.png]]
+![](../img/20240301023430.png)
 
 - we have created a number of different steps that we  start with just a single node
 -  we looked at partition that separates that node in the labeled set from every other node
@@ -38,17 +38,17 @@
 
 ### Code 
 
-![[20240301023831.png]]
+![](../img/20240301023831.png)
 
 After running the  algorithm: 
 
-![[20240301025545.png]]
+![](../img/20240301025545.png)
 
 ### Run Time Analysis 
 
-![[20240301025706.png]]
+![](../img/20240301025706.png)
 
 - The time it takes to build our minimum spanning tree, is going to always be proportional to  the number of edges in the graph times the log of the number of edges in the graph, no matter what algorithm we use.
-![[20240301032600.png]]
+![](../img/20240301032600.png)
 
 - For very dense graph, prim's algorithm will be able to run in propotional to numbers of verteces. 
